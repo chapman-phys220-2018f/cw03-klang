@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 3
 
-**Author(s):** **Trevor Kling, **
+**Author(s):** **Trevor Kling,**
 
 ## Specification
 
@@ -40,4 +40,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**Trevor Kling, **
+**Trevor Kling,**
