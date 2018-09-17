@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 3
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Trevor Kling, **
 
 ## Specification
 
@@ -29,9 +29,7 @@ Note : the homework this week will be to finish all of the classwork, and includ
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+For this assignment, I found it particularly helpful that good coding practice was enforced from the start.  The assignment could have easily been done in just the main, but by requiring levels of abstraction the assignment prepares the class to be able to do more interesting things later.
 
 ## Honor Pledge
 
@@ -42,4 +40,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Trevor Kling, **
