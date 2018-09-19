@@ -21,7 +21,7 @@ fi
 
 if [ -f fibs.csv.bak ]; then
 	echo "A backup already exists, I'm gone"
-	exit 0
+	exit 2
 fi
 
 if [ -f fibs.csv ]; then
